@@ -1,6 +1,6 @@
 import java.util.*;
 import java.lang.*;
-public class BAEKJOON1206 {
+public class BAEKJOON1018 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
