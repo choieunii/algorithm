@@ -2,7 +2,7 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-public class Main {
+public class BAEKJOON10994 {
 	public static String[][] initStar(int N,String[][] starArray) {
 		for(int i=1;i<=N;i++) {
 			for(int j=1;j<=N;j++) {
