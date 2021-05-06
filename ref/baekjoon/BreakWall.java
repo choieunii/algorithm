@@ -51,7 +51,7 @@ public class BreakWall {
     }
 
     public static void bfs() {
-        Queue<Location> q = new LinkedList<Location>();
+        Queue<Location> q = new LinkedList<>();
         q.offer(new Location(0, 0, 0));
         visited[0][0][0] = 1;
         while (!q.isEmpty()) {
